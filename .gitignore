@@ -3,4 +3,6 @@
 /Libs/
 /.settings/
 /.classpath
-.svn/ /Reports Reports/
+.svn/
+/Reports
+Reports/
